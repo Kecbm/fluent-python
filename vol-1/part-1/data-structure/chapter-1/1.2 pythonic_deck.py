@@ -223,5 +223,3 @@ Card(rank='A', suit='diamonds')
 Card(rank='A', suit='hearts')
 Card(rank='A', suit='spades')
 """
-
-
